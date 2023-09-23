@@ -1,0 +1,43 @@
+.judgeSection {
+    background-color: #150e28;
+    border-bottom: 1px solid #234341;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5% 0;
+}
+
+.imgDiv {
+    width: 45%;
+
+}
+
+.judgeDiv {
+    width: 40%;
+    color: white;
+}
+
+.judgeDiv>h4 {
+    font-weight: 700;
+    font-size: 2rem;
+    width: 17rem;
+}
+
+.judgeDiv>p {
+    font-weight: 400;
+    font-size: 0.875rem;
+    margin-top: 0.5rem;
+    color: white;
+    width: 21rem;
+}
+
+.judgeDiv>p>span {
+    color: #ff26b9;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.judgeDiv>button {
+    margin-top: 5%;
+    background-image: linear-gradient(#903AFF 100%, #D434FE 100%, #FF26B9 100%, #FE34B9 100%);
+    padding: 1.03rem 2.59rem;
+}

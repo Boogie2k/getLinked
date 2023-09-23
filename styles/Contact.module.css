@@ -1,0 +1,68 @@
+.contactSection {
+    background-color: #150e28;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    min-height: 100vh;
+    padding-bottom: 18%;
+    padding-top: 2%;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.left>h4 {
+    color: #D434FE;
+    font-weight: 600;
+    font-size: 2rem;
+
+}
+
+.left>p {
+    font-weight: 400;
+    font-size: 1rem;
+    margin-top: 4.5%;
+    max-width: 17rem;
+}
+
+.iconDiv {
+    display: flex;
+    width: 8.0625rem;
+    margin-top: 2%;
+    justify-content: space-between;
+}
+
+.right {
+    width: 39%;
+    display: flex;
+    flex-direction: column;
+    border: 0px solid black;
+    box-shadow: 0px 2px 2px black;
+    padding: 2% 4%;
+    justify-content: space-between;
+    min-height: 70vh;
+}
+
+.right button {
+    width: 10.75rem;
+    margin: 0 auto;
+    padding: 2% 0;
+    background-image: linear-gradient(#903AFF 100%, #D434FE 100%, #FF26B9 100%, #FE34B9 100%);
+}
+
+.right h4 {
+    color: #D434FE;
+    width: 17rem;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.right input {
+    background-color: transparent;
+    border: 1px solid white;
+
+
+}

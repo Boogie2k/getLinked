@@ -1,0 +1,45 @@
+.introduction {
+    display: flex;
+    justify-content: space-between;
+    background-color: #150e28;
+    padding-top: 2%;
+    border-bottom: 1px solid #234341;
+    align-items: center;
+    padding-bottom: 4%;
+    padding-left: 5%;
+}
+
+.bigIdea {
+    width: 50%;
+    position: relative;
+}
+
+.introTo {
+    width: 50%;
+
+    color: white;
+
+}
+
+.introTo>h4 {
+    width: 24.875rem;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.introTo>p {
+    width: 33.4375rem;
+    font-size: 0.875rem;
+    font-weight: 400;
+    margin-top: 0.35em;
+}
+
+.bigIdea>p {
+
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    color: white;
+    font-weight: 700;
+    font-size: 1.5rem;
+}

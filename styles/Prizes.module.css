@@ -1,0 +1,42 @@
+.prizeSec {
+    display: flex;
+    background-color: #150e28;
+    border-bottom: 1px solid #234341;
+    color: white;
+    justify-content: space-evenly;
+    padding-top: 4%;
+    padding-bottom: 8%;
+}
+
+.prizeSec .h {
+    font-weight: 700;
+    font-size: 2rem;
+    width: 11.125rem;
+}
+
+.h span {
+    color: #D434FE;
+}
+
+.p {
+    font-weight: 400;
+    font-size: 0.8375rem;
+    width: 19rem;
+
+}
+
+.left {
+    width: 30%;
+    display: flex;
+
+    align-items: center;
+}
+
+.right {
+    width: 50%;
+}
+
+.topRDiv {
+    padding-left: 25%;
+    margin-bottom: 4rem;
+}

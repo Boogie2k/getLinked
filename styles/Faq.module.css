@@ -1,0 +1,46 @@
+.faqSection {
+    display: flex;
+    background-color: #150e28;
+    border-bottom: 1px solid #234341;
+    padding-left: 10%;
+
+    padding-top: 8%;
+
+}
+
+.faqSection section {
+    margin-top: 2rem;
+}
+
+.faqSection span {
+    color: #d434fe;
+}
+
+.faqSection>div {
+    width: 46%;
+}
+
+.h {
+    font-weight: 700;
+    font-size: 2rem;
+    color: white;
+    width: 15.89rem;
+}
+
+.p {
+    font-weight: 400;
+    font-size: 0.8375rem;
+    color: white;
+    width: 21rem;
+    margin-top: 0.5rem;
+}
+
+.faqs {
+    display: flex;
+    align-items: center;
+    color: white;
+    width: 26.7rem;
+    justify-content: space-between;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #d434fe;
+}

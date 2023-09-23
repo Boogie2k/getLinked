@@ -1,0 +1,34 @@
+.rulesSection {
+    display: flex;
+    background-color: #150e28;
+    border-bottom: 1px solid #234341;
+    padding-left: 5%;
+    align-items: center;
+}
+
+.rules {
+    width: 50%;
+
+
+}
+
+.rules span {
+    color: #d434fe;
+}
+
+.h {
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+    width: 10.625rem;
+
+}
+
+.p {
+    color: white;
+    font-weight: 400;
+    font-size: 0.8375rem;
+    margin-top: 0.4rem;
+
+    width: 33.43rem;
+}

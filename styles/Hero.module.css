@@ -1,0 +1,84 @@
+.hero {
+
+    padding-bottom: 4%;
+    padding-top: 4%;
+    padding-left: 4%;
+    background-color: #150e28;
+    border-bottom: 1px solid #234341;
+    border-top: 1px solid #234341;
+
+}
+
+
+
+.prizeSec {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 49%;
+
+}
+
+.h4 {
+    text-align: right;
+    font-weight: 700;
+    font-size: 2.25rem;
+    color: white;
+    padding-right: 4%;
+}
+
+
+
+.prizeSecH4 {
+    color: white;
+    font-size: 5rem;
+    font-weight: 700;
+
+
+}
+
+.prizeSecP {
+    font-weight: 400;
+    color: white;
+    font-size: 1.25rem;
+}
+
+.reg {
+    background-image: linear-gradient(#903AFF 100%, #D434FE 100%, #FF26B9 100%, #FE34B9 100%);
+    border-radius: 4px;
+    color: white;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    width: 30%;
+
+    margin-top: 25px;
+}
+
+.time {
+    font-weight: 400;
+    font-size: 4rem;
+    color: white;
+    margin-top: 50px;
+}
+
+.clock {
+    font-size: 0.75rem;
+}
+
+.divide {
+    display: flex;
+    flex-direction: row;
+}
+
+.imgDiv {
+    width: 50%;
+    position: relative;
+    text-align: right;
+
+
+}
+
+.imgInnerDiv {
+    position: absolute;
+    top: 0
+}
